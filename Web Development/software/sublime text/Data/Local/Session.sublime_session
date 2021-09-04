@@ -1,0 +1,991 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/YelpCamp",
+		"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Assets"
+	],
+	"last_version": 3207,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 461.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"l",
+						"link\tTag"
+					],
+					[
+						"f",
+						"fadeOut"
+					],
+					[
+						"bo",
+						"border\tproperty"
+					],
+					[
+						"in",
+						"inline-block\tdisplay"
+					],
+					[
+						"i",
+						"i\tTag"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"box",
+						"box-sizing\tproperty"
+					],
+					[
+						"ba",
+						"background\tproperty"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"tex",
+						"text-decoration-style\tproperty"
+					],
+					[
+						"h",
+						"h1\tTag"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"T",
+						"TodoList"
+					],
+					[
+						"s",
+						"script\tTag"
+					],
+					[
+						"u",
+						"ul\tTag"
+					],
+					[
+						"me",
+						"messageDisplay"
+					],
+					[
+						"bord",
+						"border-radius\tproperty"
+					],
+					[
+						"tra",
+						"transition\tproperty"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"le",
+						"letter-spacing\tproperty"
+					],
+					[
+						"co",
+						"color\tproperty"
+					],
+					[
+						"pa",
+						"padding\tproperty"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"text",
+						"text-transform\tproperty"
+					],
+					[
+						"font",
+						"font-weight\tproperty"
+					],
+					[
+						"ma",
+						"margin\tproperty"
+					],
+					[
+						"tes",
+						"text-align-last\tproperty"
+					],
+					[
+						"num",
+						"numOfSqares"
+					],
+					[
+						"e",
+						"easyBtn"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"b",
+						"button\tTag"
+					],
+					[
+						"re",
+						"resetButton"
+					],
+					[
+						"p",
+						"pickedColor"
+					],
+					[
+						"ra",
+						"randomColorSelection"
+					],
+					[
+						"ge",
+						"generateColors"
+					],
+					[
+						"c",
+						"color"
+					],
+					[
+						"ms",
+						"messageDisplay"
+					],
+					[
+						"sa",
+						"square"
+					],
+					[
+						"Co",
+						"ColourGame"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"p2",
+						"p2Score"
+					],
+					[
+						"t",
+						"textContent"
+					],
+					[
+						"p1",
+						"p1Score"
+					],
+					[
+						"a",
+						"addEventListener"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"new",
+						"newTodo"
+					],
+					[
+						"to",
+						"todos"
+					],
+					[
+						"pro",
+						"prompt"
+					],
+					[
+						"pr",
+						"prompt"
+					],
+					[
+						"na",
+						"navbar-nav"
+					],
+					[
+						"nav",
+						"navbar"
+					],
+					[
+						"n",
+						"navbar-default"
+					],
+					[
+						"for",
+						"form"
+					],
+					[
+						"fo",
+						"form\tTag"
+					],
+					[
+						"bt",
+						"btn-lg"
+					],
+					[
+						"padd",
+						"padding-bottom\tproperty"
+					],
+					[
+						"bor",
+						"border-bottom\tproperty"
+					],
+					[
+						"fon",
+						"font-weight\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"te",
+						"text-align\tproperty"
+					],
+					[
+						"r",
+						"rgb()\tbackground"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"se",
+						"select\tTag"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/patatap/circles.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Assets/css/TodoList.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Assets/Js/TodoList.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/TodoList.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/TodoList.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/TodoList.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/jquery_demo.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ColourGame.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ColourGame.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ColourGame.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/js_objct_css.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/object.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/js_objct.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/script.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/java_link.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/grid.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/gallery.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/gallery.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/basic.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/navbar.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ImageSlide.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/style_image.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Fonts.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/style_font.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/aboutme.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/app.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/specifity.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/specifity.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/FirstPage.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Excercise_form_html.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/SecondPage.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Thirdpage_form.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/fourth_page.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/radio.html"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"(){",
+					">\n",
+					"\">\n",
+					">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 127.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"l",
+						"link\tTag"
+					],
+					[
+						"f",
+						"fadeOut"
+					],
+					[
+						"bo",
+						"border\tproperty"
+					],
+					[
+						"in",
+						"inline-block\tdisplay"
+					],
+					[
+						"i",
+						"i\tTag"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"box",
+						"box-sizing\tproperty"
+					],
+					[
+						"ba",
+						"background\tproperty"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"tex",
+						"text-decoration-style\tproperty"
+					],
+					[
+						"h",
+						"h1\tTag"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"T",
+						"TodoList"
+					],
+					[
+						"s",
+						"script\tTag"
+					],
+					[
+						"u",
+						"ul\tTag"
+					],
+					[
+						"me",
+						"messageDisplay"
+					],
+					[
+						"bord",
+						"border-radius\tproperty"
+					],
+					[
+						"tra",
+						"transition\tproperty"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"le",
+						"letter-spacing\tproperty"
+					],
+					[
+						"co",
+						"color\tproperty"
+					],
+					[
+						"pa",
+						"padding\tproperty"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"text",
+						"text-transform\tproperty"
+					],
+					[
+						"font",
+						"font-weight\tproperty"
+					],
+					[
+						"ma",
+						"margin\tproperty"
+					],
+					[
+						"tes",
+						"text-align-last\tproperty"
+					],
+					[
+						"num",
+						"numOfSqares"
+					],
+					[
+						"e",
+						"easyBtn"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"b",
+						"button\tTag"
+					],
+					[
+						"re",
+						"resetButton"
+					],
+					[
+						"p",
+						"pickedColor"
+					],
+					[
+						"ra",
+						"randomColorSelection"
+					],
+					[
+						"ge",
+						"generateColors"
+					],
+					[
+						"c",
+						"color"
+					],
+					[
+						"ms",
+						"messageDisplay"
+					],
+					[
+						"sa",
+						"square"
+					],
+					[
+						"Co",
+						"ColourGame"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"p2",
+						"p2Score"
+					],
+					[
+						"t",
+						"textContent"
+					],
+					[
+						"p1",
+						"p1Score"
+					],
+					[
+						"a",
+						"addEventListener"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"new",
+						"newTodo"
+					],
+					[
+						"to",
+						"todos"
+					],
+					[
+						"pro",
+						"prompt"
+					],
+					[
+						"pr",
+						"prompt"
+					],
+					[
+						"na",
+						"navbar-nav"
+					],
+					[
+						"nav",
+						"navbar"
+					],
+					[
+						"n",
+						"navbar-default"
+					],
+					[
+						"for",
+						"form"
+					],
+					[
+						"fo",
+						"form\tTag"
+					],
+					[
+						"bt",
+						"btn-lg"
+					],
+					[
+						"padd",
+						"padding-bottom\tproperty"
+					],
+					[
+						"bor",
+						"border-bottom\tproperty"
+					],
+					[
+						"fon",
+						"font-weight\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"te",
+						"text-align\tproperty"
+					],
+					[
+						"r",
+						"rgb()\tbackground"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"se",
+						"select\tTag"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/YelpCamp"
+			],
+			"file_history":
+			[
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/patatap/circles.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Assets/css/TodoList.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Assets/Js/TodoList.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/TodoList.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/TodoList.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/TodoList.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/jquery_demo.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ColourGame.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ColourGame.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ColourGame.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/js_objct_css.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/object.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/js_objct.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/script.js",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/java_link.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/grid.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/gallery.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/gallery.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/basic.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/navbar.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/ImageSlide.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/style_image.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Fonts.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/style_font.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/aboutme.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/app.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/specifity.css",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/specifity.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/FirstPage.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Excercise_form_html.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/SecondPage.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/Thirdpage_form.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/fourth_page.html",
+				"/C/Users/Zulfiqar/Desktop/Web Development/software/sublime text/Practice/radio.html"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Zulfiqar\\Desktop\\Web Development\\software\\sublime text\\Practice\\YelpCamp"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 127.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,598,78,78,734",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
